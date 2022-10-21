@@ -9,3 +9,8 @@ var person={
 console.log(person.name);
 console.log(person.age);
 console.log(person.career);
+
+//creating array
+
+var x = [];
+var y = [1, 2, 3, 4, 5];
